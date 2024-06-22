@@ -1,9 +1,22 @@
-# Starter React Project for the Supabase Course
+# Supasmoothies
 
-**How to run the starter project:**
+## Description
 
-1. Once downloaded, navigate to the project directory in a terminal and run **npm install** to install all the project dependencies.
-2. In the project directory, run **npm start** to run the app & view it in a browser at [http://localhost:3000](http://localhost:3000).
+This React project is an application for learning Supabase. This project was developed using **Google's Project IDX**, a cloud-based development environment.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Run the Project
+
+If you want to run this project locally, follow these steps:
+
+1. **Download the project:** Clone this repository to your computer.
+2. **Install dependencies:** Open a terminal in the project directory and run `npm install`.
+3. **Run the app:** Run `npm start` to start the development server. The app will open in your browser at [http://localhost:3000](http
+://localhost:3000).
+
+
+## Technologies Used
+
+- React
+- React Router DOM
+- Supabase
+- **Project IDX** 
